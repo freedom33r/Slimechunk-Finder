@@ -1,7 +1,3 @@
 *.o
 *.out
-*.elf
-*.img
-*.efi
-.vscode
 slimechunks
